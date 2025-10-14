@@ -25,9 +25,8 @@
 - Recursion & Backtracking  
 - Dynamic Programming  
 
-🔗 **My LeetCode Profile:** ((https://leetcode.com/u/fdf8u5mIvY/))
+🔗 **My LeetCode Profile:** ![LeetCode Stats](https://leetcard.jacoblin.cool/fdf8u5mIvY?theme=dark&font=Baloo%202&ext=heatmap)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo%202&ext=heatmap)
 
 ---
 

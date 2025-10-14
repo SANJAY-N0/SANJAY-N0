@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sanjay!
 
-💻 **Frontend Dev | DevOps Learner | SaaS Builder | Automation Nerd**
+💻 **Frontend Dev | SaaS Builder | Automation Nerd**
 
 🚀 I’m on a mission to build dope products that solve real-world problems — fast, clean, and scalable.
 
@@ -8,7 +8,7 @@
 
 ### 🧠 Currently Grinding On
 - ⚛️ Frontend Stack — **React**, **Tailwind**, **JavaScript Magic**
-- 🧰 DevOps — **Docker**, **Kubernetes**, **CI/CD**, **Cloud Deploys**
+- 🧰 DevOps — **Docker**, **CI/CD** , **linux**
 - ⚙️ Automation — **n8n**, **APIs**, **AI Integrations**
 - 🧩 Problem Solving — **LeetCode**, **Data Structures**
 
@@ -17,17 +17,11 @@
 ### 💪 LeetCode Grind Zone
 
 🏆 **Daily Streak Mode: ON**  
-📊 Solving 250+ DSA problems in 6 months
+📊 Solving 100+ DSA problems in 6 months
 
-🧠 Focus Areas:
-- Arrays & Strings  
-- HashMaps & Sliding Windows  
-- Recursion & Backtracking  
-- Dynamic Programming  
+🔗 **My LeetCode Profile:** [leetcode.com/u/fdf8u5mIvY](https://leetcode.com/u/fdf8u5mIvY)
 
-🔗 **My LeetCode Profile:****
 ![LeetCode Stats](https://leetcard.jacoblin.cool/fdf8u5mIvY?theme=dark&font=Baloo%202&ext=heatmap)
-
 
 ---
 

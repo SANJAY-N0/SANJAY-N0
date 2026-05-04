@@ -35,7 +35,7 @@
 
 ### 💡 Goals 2025
 - 🏗️ Launch my first **micro-SaaS** to real users  
-- ☁️ Master **Full Stack + DevOps**  
+- ☁️ Master **Full Stack**  
 - 🧠 Solve **LeetCode daily**  
 - 🎙️ Build fluent English + strong online brand  
 - 🔥 Stay **consistent > perfect**
@@ -47,14 +47,6 @@
 ☁️ `Node.js` `Express` `MongoDB`  
 🧠 `n8n` `Python` `AI APIs`  
 ⚙️ `Linux` `Docker` `Git` `CI/CD`
-
----
-
-### 📈 GitHub Stats
-
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

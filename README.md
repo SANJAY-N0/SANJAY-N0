@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SANJAY%20A&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SANJAY%20N&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header banner" />
 </div>
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sanjay </h1>
